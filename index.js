@@ -110,7 +110,7 @@ exp
   .get("/admin-login", (req, res) => {
     //insert one document into the admin collection
     // db.collection("admin").insertOne(
-    //   { _id: 1, user_name: "admin", password: "1234" },
+    //   { _id: 2, user_name: "admin2", password: "1234" },
     //   (err, collection) => {
     //     if (err) {
     //       throw err;
